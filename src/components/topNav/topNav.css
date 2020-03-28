@@ -1,0 +1,32 @@
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(190, 118, 82);
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    
+}
+
+.headerMenu a
+{
+    text-decoration: none;
+    color: white;
+    margin: 20% 20px 20% 5px;
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+
+}
+
+.headerMenu a:hover
+{
+    color: turquoise;
+}
+p
+{
+    font-size: 50px;
+    text-transform: uppercase;
+}
